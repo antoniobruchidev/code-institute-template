@@ -355,13 +355,13 @@ label {
 
 
 
-.dublin ul {
+#dublin_ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-.dublin a {
+#dublin_ul a {
     border: 2px solid black;
     border-radius: 50%;
     width: 5rem;
@@ -374,18 +374,18 @@ label {
     font-family: Lato;
 }
 
-.dublin li {
+#dublin_ul li {
     display: inline;
 }
 
-.dublin nav {
+#dublin_navbar {
     text-align: center;
     border-bottom: 2px solid black;
     margin: 0px 20px 20px 20px;
     padding-bottom: 20px;
 }
 
-.dublin img {
+#dublin_img {
     border: 2px solid black;
     max-width: 60%;
     padding: 10px;
@@ -395,11 +395,11 @@ label {
 
 }
 
-.dublin h1 {
+#dublin_header {
     font-family: Roboto, sans-serif;
     text-align: center;
 }
 
-.dublin figure {
+#dublin_figure {
     margin-top: 40px;
 }
